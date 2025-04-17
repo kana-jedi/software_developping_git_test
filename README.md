@@ -1,0 +1,2 @@
+# software_developping_git_test
+ソフトウェア開発演習のgitテスト用リポジトリ
